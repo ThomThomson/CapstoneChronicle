@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConflictChronicleGame", "ConflictChronicleGame.csproj", "{65F0A6C3-944E-B477-F17B-2C4A3E38B861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConflictChronicleGame.Editor", "ConflictChronicleGame.Editor.csproj", "{732348E7-4CAE-D184-45F5-4A4341135BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F0A6C3-944E-B477-F17B-2C4A3E38B861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F0A6C3-944E-B477-F17B-2C4A3E38B861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F0A6C3-944E-B477-F17B-2C4A3E38B861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F0A6C3-944E-B477-F17B-2C4A3E38B861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{732348E7-4CAE-D184-45F5-4A4341135BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732348E7-4CAE-D184-45F5-4A4341135BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732348E7-4CAE-D184-45F5-4A4341135BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732348E7-4CAE-D184-45F5-4A4341135BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
